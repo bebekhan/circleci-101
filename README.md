@@ -1,1 +1,1 @@
-# circleci-101
+# CircleCI-101
